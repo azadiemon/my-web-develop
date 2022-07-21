@@ -1,0 +1,21 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width image {
+    width: 100%;
+}
+
+.link button {
+    text-decoration: none;
+    background-image: -o-linear-gradient(green);
+    padding-bottom: 10px 40px
+}
