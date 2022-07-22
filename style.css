@@ -14,8 +14,17 @@ h1 {
     width: 100%;
 }
 
-.link button {
-    text-decoration: none;
-    background-image: -o-linear-gradient(green);
-    padding-bottom: 10px 40px
+footer {
+    text-align: center;
+    p: center;
+    color: black;
+
+}
+
+.link-button {
+    text-decoration: chartreuse;
+    text-align: center;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: brown;
 }
